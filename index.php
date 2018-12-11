@@ -1,3 +1,5 @@
 <?php
-echo "Testes com o git e alteração de dados"
+echo "Teste de conflitos"
+
+echo "Opa"
 ?>
